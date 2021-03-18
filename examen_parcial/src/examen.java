@@ -1,2 +1,0 @@
-module examen_parcial {
-}
